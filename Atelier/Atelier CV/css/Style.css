@@ -1,0 +1,89 @@
+#Main{
+	width:100%;
+}
+
+#joyeux{
+width:255px;
+height: relative;
+float: left;
+background-color:rgb(91,91,91);
+color: white;
+text-align:center;
+
+}
+
+#matin{
+margin-left: 265px;
+height: relative; 
+background-color: white;
+
+}
+h1,h2,h3{
+	color:rgb(84,159,0);
+}
+
+a{
+	text-decoration:none;
+	color:black;
+}
+
+.cercle-1 {
+    background: rgb(84,159,0);
+    width: 100px;
+    height: 25px;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    margin:5px;
+    overflow:hidden;
+    padding:25px;
+    position:relative;
+}
+.cercle-2 {
+    background: rgb(84,159,0);
+    width: 75px;
+    height: 17px;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    margin:5px;
+    overflow:hidden;
+    padding:25px;
+    position:relative;
+}
+.cercle-3 {
+    background: rgb(84,159,0);
+    width: 55px;
+    height: 13px;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    margin:5px;
+    overflow:hidden;
+    padding:25px;
+    position:relative;
+}
+.cercle-4 {
+    background: rgb(84,159,0);
+    width: 35px;
+    height: 8px;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    margin:5px;
+    overflow:hidden;
+    padding:25px;
+    position:relative;
+}
+.texte{
+  transform:translate(-50%,-50%);
+  position:absolute;
+  top:50%;
+  left:50%;
+}
+
+.textFont{
+	font-family:Brush Script MT;
+	font-size:25px;
+	margin:35px;
+}
