@@ -1,0 +1,36 @@
+#Main{
+	width: 100%;
+}
+
+#Grand{
+	
+	Position: relative;
+	z-index: 1;
+	margin:auto;
+
+}
+
+#Moyen{
+	
+	Position: absolute;
+	z-index:2;
+	margin: auto;
+	top: 105px;
+	left:105px;
+	
+}
+
+#Petit{
+	
+	Position:absolute;
+	z-index:3;
+	margin: auto;
+	bottom:75px;
+	left:75px;
+}
+
+.center {
+margin: auto;
+width: 476px;
+padding: 10px;
+text-align:center;
